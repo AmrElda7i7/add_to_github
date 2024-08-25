@@ -1,0 +1,9 @@
+1- store the name of dirs that are on github in text file called "anything" 
+2- get the dirs name 
+3- loop over them :
+	check if the dir name in the text file then skip it
+	if is not add it the array 
+4- loop over array : 
+	cd every dir 
+	git init 
+	and then you know the rest 
